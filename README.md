@@ -14,7 +14,7 @@
 
 ### Connect with Me :
 
-<a href="https://www.linkedin.com/in/rohit-gupta-java/" target="_blank"><img src="https://img.shields.io/badge/-Mohammed%20Yehia-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/rohit-gupta-java/" target="_blank"><img src="https://img.shields.io/badge/Rohit%20Gupta?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 ### 🛠 &nbsp;Tech Stack
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java)&nbsp;
 ![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=Spring)&nbsp;
